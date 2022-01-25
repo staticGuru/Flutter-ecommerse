@@ -1,0 +1,4 @@
+#Tue Jan 25 19:21:59 IST 2022
+base.0=E\:\\Ewall Solution pvt ltd\\Flutter\\FlutterApp\\worldtimeapp\\fe2\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
